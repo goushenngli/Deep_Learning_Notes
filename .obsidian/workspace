@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "2b91cdc3d0d98e05",
+    "type": "split",
+    "children": [
+      {
+        "id": "44165435404e26a7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "编程知识/openCV/openCV功能.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1d63b7b303e8370e",
+    "type": "split",
+    "children": [
+      {
+        "id": "b1ff5d16b42fd007",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4007e9f92c4bff80",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "5bdd79b872a37965",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "82afa226a067a1e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "824356d6f351f96f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "045db7d6d3322126",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "编程知识/openCV/openCV功能.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "44165435404e26a7",
+  "lastOpenFiles": [
+    "其他/ubuntu软件.md",
+    "其他/项目上传到github.md",
+    "其他/本地程序通信.md",
+    "data/固定IP.jpg",
+    "data/安全帽整体流程图.png",
+    "C++开发中遇到的一些问题.md"
+  ]
+}
