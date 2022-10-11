@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "编程知识/openCV/openCV功能.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识/openCV/openCV功能.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,11 +89,15 @@
   },
   "active": "44165435404e26a7",
   "lastOpenFiles": [
+    "其他/ob插件.md",
     "其他/ubuntu软件.md",
-    "其他/项目上传到github.md",
     "其他/本地程序通信.md",
-    "data/固定IP.jpg",
-    "data/安全帽整体流程图.png",
-    "C++开发中遇到的一些问题.md"
+    "项目笔记/项目上传到github.md",
+    "其他/冷链仓储项目部署.md",
+    "项目笔记/工业相机参数.md",
+    "项目笔记/道路病害/GUI原型设计.md",
+    "项目笔记/道路病害/其他参考.md",
+    "项目笔记/道路病害/窗口切换.md",
+    "项目笔记/安全帽项目/遇到的问题.md"
   ]
 }
