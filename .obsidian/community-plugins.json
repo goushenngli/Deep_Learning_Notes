@@ -1,5 +1,15 @@
 [
   "table-editor-obsidian",
   "media-extended",
-  "mx-bili-plugin"
+  "mx-bili-plugin",
+  "obsidian-auto-link-title",
+  "obsidian-admonition",
+  "obsidian-footnotes",
+  "obsidian-reading-time",
+  "obsidian-emoji-toolbar",
+  "obsidian-style-settings",
+  "oz-clear-unused-images",
+  "obsidian-collapse-all-plugin",
+  "obsidian-icon-folder",
+  "obsidian-icons-plugin"
 ]
