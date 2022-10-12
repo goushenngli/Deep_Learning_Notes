@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "编程知识/numpy/数组中的值修改.md",
+            "file": "其他/ob插件.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识/numpy/数组中的值修改.md",
+                "file": "其他/ob插件.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "44165435404e26a7",
   "lastOpenFiles": [
-    "编程知识/numpy/检索与赋值.md",
-    "项目笔记/安全帽项目/添加设备.md",
-    "网络模型/网络部署/tensorrt模型加速.md",
-    "网络模型/模型训练调优/yolov7模型接续训练.md",
-    "笔记本选购需求.md",
-    "README.md",
-    "其他/ob插件.md",
-    "其他/ubuntu软件.md",
-    "其他/本地程序通信.md",
-    "项目笔记/项目上传到github.md"
+    "临时存储.md",
+    "小知识点.md",
+    "学习资源.md",
+    "C++开发中遇到的一些问题.md",
+    "MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "项目笔记/道路病害/数据库设计.md",
+    "项目笔记/道路病害/GUI原型设计.md",
+    "编程知识/数据库/数据库操作.md",
+    "编程知识/数据库/数据库对象共享.md",
+    "笔记本选购需求.md"
   ]
 }
