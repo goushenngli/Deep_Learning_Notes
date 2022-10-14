@@ -10,10 +10,10 @@
   "dropShadow": true,
   "hideEmpty": false,
   "open": {
-    "admonitions": true,
-    "icons": true,
-    "other": true,
-    "advanced": false
+    "admonitions": false,
+    "icons": false,
+    "other": false,
+    "advanced": true
   },
   "icons": [],
   "useFontAwesome": true,
