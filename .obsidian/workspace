@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "电脑选购需求.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "端口",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "电脑选购需求.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,15 +97,15 @@
   },
   "active": "44165435404e26a7",
   "lastOpenFiles": [
-    "其他/ob插件.md",
-    "README.md",
-    "学习资源.md",
-    "C++开发中遇到的一些问题.md",
-    "小知识点.md",
     "临时存储--软件设计.md",
-    "项目笔记/道路病害/Qt设计想法.md",
-    "项目笔记/道路病害/GUI原型设计.md",
-    "项目笔记/道路病害/窗口切换.md",
-    "项目笔记/道路病害/其他参考.md"
+    "学习资源.md",
+    "小知识点.md",
+    "电脑选购需求.md",
+    "编程知识/linux/端口相关命令.md",
+    "其他/ubuntu软件.md",
+    "其他/冷链仓储项目部署.md",
+    "其他/ob插件.md",
+    "其他/本地程序通信.md",
+    "C++开发中遇到的一些问题.md"
   ]
 }
