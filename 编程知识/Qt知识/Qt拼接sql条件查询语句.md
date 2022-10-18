@@ -29,3 +29,7 @@ str = QString("%1 was born in %2").arg("John").arg(1988);
 ```C++
 QString str_sql = QString("SELECT * FROM tb_Project WHERE sections_name like '%%1%' AND detector like '%%2%'").arg(roadName).arg(detector);
 ```
+
+## sql数据库操作
+
+ ![[sqlite数据库操作]]

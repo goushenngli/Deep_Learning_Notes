@@ -76,6 +76,9 @@ else {
 return a.exec();
 ```
 
+> [!tip] qt连接数据库声明
+> ![[数据库对象共享#1、头文件调用]]
+
 方法参考[CSDN使用ODBC连接数据库](https://blog.csdn.net/m0_38128647/article/details/89482413)数据库能够连接，但是不能查询，考虑是数据库绑定问题，查了挺多资料，暂未解决[查询数据库解决思路CSDN](https://blog.csdn.net/qq_43680827/article/details/123284388)  
 # 参考资料
 [Qt使用sqlite(实际使用)](https://blog.csdn.net/qq_37266079/article/details/88345547)

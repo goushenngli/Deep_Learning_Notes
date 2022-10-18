@@ -60,3 +60,7 @@ private: \
     QT_ANNOTATE_CLASS(qt_qobject, "")
 ```
 其中包含函数声明，函数定义就在moc生成的.cpp文件里面
+
+
+## 参考
+![1，Qt源码解析信号和槽的机制_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1or4y1j7R4/)
