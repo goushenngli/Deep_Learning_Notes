@@ -33,26 +33,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "其他/ubuntu软件.md",
+                "file": "cmake笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "68c399afa77a6e2c",
+            "id": "43ef4efd3e8992d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "编程知识/Qt知识/json数据.md",
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "390f7e1dd1fed87f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "编程知识/Qt知识/json数据.md",
+                "file": "未命名.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,17 +142,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "68c399afa77a6e2c",
+  "active": "390f7e1dd1fed87f",
   "lastOpenFiles": [
-    "编程知识/Qt知识/数据库对象共享.md",
-    "项目笔记/安全帽项目/添加设备.md",
-    "其他/AI生成音频.md",
+    "README.md",
+    "cmake官方文档解释.md",
+    "cmake笔记.md",
     "其他/ubuntu软件.md",
-    "编程知识/Qt知识/Qt信号和槽.md",
-    "编程知识/Qt知识/Qt拼接sql条件查询语句.md",
-    "编程知识/Qt知识/Qt连接数据库.md",
-    "编程知识/Qt知识/sqlite数据库操作.md",
-    "编程知识/Qt知识/Qt.md",
-    "编程知识/Qt知识/json数据.md"
+    "学习资源.md",
+    "MarkDown超级教程 Obsidian版 2022.1.12.md",
+    "CMake 4f0e9a3fcf9949adab4540191610cf3e/Untitled.png.md",
+    "小知识点.md",
+    "电脑选购需求.md",
+    "编程知识/Qt知识/cmakelist命令.md"
   ]
 }
