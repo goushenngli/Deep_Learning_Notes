@@ -4,67 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "0c522d6a1735663d",
+        "id": "8b2a7c570ea65b57",
         "type": "tabs",
         "children": [
           {
-            "id": "44165435404e26a7",
+            "id": "dba6c3763560d7aa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "网络模型/网络模型结构可视化工具.md",
+                "file": "其他/ubuntu软件.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "ec411d2d518b24fc",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "da7b38aa1259b07d",
+            "id": "5143a2c99e64bd98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "cmake笔记.md",
+                "file": "其他/windows软件.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "43ef4efd3e8992d1",
+            "id": "f4a5029786c3e005",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "390f7e1dd1fed87f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "项目笔记/道路病害/数据库设计.md",
+                "file": "项目笔记/工业相机参数.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -93,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "海康",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -102,7 +82,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -122,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "项目笔记/道路病害/数据库设计.md",
+                "file": "项目笔记/工业相机参数.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,27 +113,33 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "55ceaf5a4fd28c22",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "390f7e1dd1fed87f",
+  "active": "f4a5029786c3e005",
   "lastOpenFiles": [
-    "编程知识/数据库/数据库操作.md",
-    "编程知识/Qt知识/sqlite数据库操作.md",
-    "编程知识/Qt知识/数据库对象共享.md",
-    "编程知识/Qt知识/Qt表格属性.md",
-    "编程知识/Qt知识/Qt拼接sql条件查询语句.md",
-    "未命名.md",
-    "README.md",
+    "其他/windows软件.md",
+    "其他/ubuntu软件.md",
+    "编程知识/Qt知识/socket通信.md",
+    "编程知识/openCV/窗口.md",
+    "编程知识/Qt知识/Qt非编程/QTcreate安装.md",
+    "编程知识/openCV/windows下opevCV的编译.md",
+    "编程知识/openCV/openCV功能.md",
+    "编程知识/Qt知识/qt获取串口输入.md",
     "cmake官方文档解释.md",
-    "cmake笔记.md",
-    "其他/ubuntu软件.md"
+    "cmake笔记.md"
   ]
 }
